@@ -1,0 +1,10 @@
+name: Resource Group
+summary: Creates a resource group
+description: Creates a testing resource group
+runner: Terraform
+templatePath: function_app.tf
+parameters: 
+- id: "location"
+  name: "Location"
+  required: true
+  type: "string"
