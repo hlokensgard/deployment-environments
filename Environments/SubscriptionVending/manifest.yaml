@@ -1,4 +1,4 @@
-name: ResourceGroup
+name: SubscriptionVending
 summary: Creates a resource group
 description: Creates a testing resource group
 runner: Terraform
