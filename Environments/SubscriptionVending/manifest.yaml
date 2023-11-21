@@ -1,4 +1,4 @@
-name: Resource Group
+name: ResourceGroup
 summary: Creates a resource group
 description: Creates a testing resource group
 runner: Terraform
